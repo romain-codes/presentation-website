@@ -1,3 +1,3 @@
 # Presentation Website
 
-HTML, CSS and JavaScript
+HTML and CSS
